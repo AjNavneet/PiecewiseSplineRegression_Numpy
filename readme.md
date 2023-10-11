@@ -1,4 +1,4 @@
-# Build Piecewise and Spline Regression Models from Scratch
+# Piecewise and Spline Regression Models Using NumPy
 
 ## Overview
 This project focuses on forecasting the points earned by a sports team based on their training performance, including factors like yoga sessions, laps completed, water intake, and weightlifting sessions. By applying machine learning techniques, this project aims to assist stakeholders in optimizing the team's training performance.
