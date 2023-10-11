@@ -59,7 +59,7 @@ Upon unzipping the `modular_code.zip` file, you will find the following folders:
 * Note: Experiment with the models with different hyperparameters.
 
 ---
-
+```
 - lib
 |   - Regression_Splines_Part_2
 |
@@ -75,7 +75,7 @@ Upon unzipping the `modular_code.zip` file, you will find the following folders:
 - readme.md
 |
 - requirements.txt
-
+```
 ---
 
 ## Project Takeaways
