@@ -74,7 +74,8 @@ The project follows a structured approach, including the following steps:
 ```
 ---
 
-## Project Takeaways
+## Concepts Explored
+
 Throughout the project, we explored various concepts and techniques, including:
 1. Step functions and the Heaviside function
 2. The limitations of Polynomial Regression
