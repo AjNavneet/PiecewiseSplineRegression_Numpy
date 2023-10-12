@@ -42,7 +42,7 @@ The project follows a structured approach, including the following steps:
 ---
 
 ## Modular Code Overview
-Upon unzipping the `modular_code.zip` file, you will find the following folders:
+
 1. `input`: Contains the NBA dataset used in the project.
 2. `lib`: A reference folder containing the original Jupyter notebook from the lectures.
 3. `ml_pipeline`: Contains functions divided into different Python files, which are appropriately named. The `Engine.py` script calls these functions to execute the project's steps, train the model, and display the results.
@@ -53,8 +53,6 @@ Upon unzipping the `modular_code.zip` file, you will find the following folders:
 ## Execution Instructions:
 * Install requirements with "pip install -r requirements.txt"
 * Run Engine.py to train models and get the results
-
-* Note: Experiment with the models with different hyperparameters.
 
 ---
 ```
@@ -77,7 +75,7 @@ Upon unzipping the `modular_code.zip` file, you will find the following folders:
 ---
 
 ## Project Takeaways
-Throughout the project, you will learn various concepts and techniques, including:
+Throughout the project, we explored various concepts and techniques, including:
 1. Step functions and the Heaviside function
 2. The limitations of Polynomial Regression
 3. What Piecewise Regression is and how to implement it in Python
