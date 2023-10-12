@@ -3,8 +3,6 @@
 ## Overview
 This project focuses on forecasting the points earned by a sports team based on their training performance, including factors like yoga sessions, laps completed, water intake, and weightlifting sessions. By applying machine learning techniques, this project aims to assist stakeholders in optimizing the team's training performance.
 
-The project is a continuation of the previous one, "Learn to Build a Polynomial Regression Model from Scratch," where we created a polynomial regression model to predict a sports team's points.
-
 In this project, we explore Piecewise Regression and Spline Regression techniques to improve upon our previous results. Piecewise Regression divides the independent variable into intervals and fits different linear functions to each interval. Spline Regression combines polynomial regression functions into a piecewise continuous function.
 
 
