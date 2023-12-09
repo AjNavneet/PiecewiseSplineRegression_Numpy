@@ -1,4 +1,4 @@
-# Piecewise_Spline Regression using NumPy - Predictive Sports Analytics
+# Piecewise and Spline Regression using NumPy - Predictive Sports Analytics
 
 ## Overview
 
